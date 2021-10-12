@@ -1,0 +1,16 @@
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.exe
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.deps.json
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.runtimeconfig.json
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.runtimeconfig.dev.json
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.dll
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\ref\contaBanco.dll
+C:\Users\MattT\Desktop\contaBanco\bin\Debug\net5.0\contaBanco.pdb
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.csproj.AssemblyReference.cache
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.AssemblyInfoInputs.cache
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.AssemblyInfo.cs
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.csproj.CoreCompileInputs.cache
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.dll
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\ref\contaBanco.dll
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.pdb
+C:\Users\MattT\Desktop\contaBanco\obj\Debug\net5.0\contaBanco.genruntimeconfig.cache
